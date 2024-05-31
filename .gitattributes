@@ -1,2 +1,4 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.weights filter=lfs diff=lfs merge=lfs -text
 pages/Emotion_detection_with_CNN-main/emotion_dataset.zip filter=lfs diff=lfs merge=lfs -text
 pages/home/yolov4.weights filter=lfs diff=lfs merge=lfs -text
